@@ -39,8 +39,8 @@ Meu objetivo é me tornar um desenvolvedor cada vez mais completo, construindo s
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdu5&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdu5&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdu5&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdu5&layout=compact&theme=dark"/>
 </p>
 
 ---
